@@ -1,0 +1,7 @@
+#inducle<stiduo.in>
+#inducle<coiuio>h>
+void main()
+{
+println("hello world")
+}
+reretun();
